@@ -99,6 +99,10 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
 ![](https://nirzak-streak-stats.vercel.app/?user=reddy1307&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reddy1307&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 📈 Contribution Graph:
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=reddy1307&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&area_color=0a1a2e&hide_border=true&custom_title=Santhosh's%20Contribution%20Activity%20Graph)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=reddy1307&icon=0&color=0)](https://visitcount.itsvg.in)
