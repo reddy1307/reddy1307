@@ -1,95 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a1a2e,100:4ECDC4&height=260&section=header&text=SANTHOSH%20REDDY%20VARIKUTI&fontSize=52&fontColor=4ECDC4&animation=fadeIn&fontAlignY=42&desc=✨%20Full%20Stack%20Developer%20%7C%20Java%20•%20Spring%20Boot%20•%20React%20✨&descSize=18&descAlignY=63&descColor=ffffff" />
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Java+%E2%80%A2+Spring+Boot;React+%E2%80%A2+REST+APIs+%E2%80%A2+System+Design;Building+Scalable+Web+Applications;Competitive+Programmer+%7C+Problem+Solver;" alt="Typing SVG" />
-</a>
-
-<br/>
-
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/santhosh-reddy-varikuti/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/santhosh13072006/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Compete-4ECDC4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://codeforces.com/profile/santhosh1307)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/reddy1307)
-[![Profile Views](https://komarev.com/ghpvc/?username=reddy1307&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/reddy1307)
-
-</div>
-
-<br/>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-
-### 🧑‍💻 whoami
-
-<details>
-<summary>
-
-🚀 <b>RUN</b> <code>view_developer_profile.sh</code>
-
-</summary>
-
-<br>
-
-```java
-import java.util.List;
-
-/**
- * Developer Profile
- * Full Stack Engineering | Competitive Programming | System Design
- */
-public final class DeveloperProfile {
-
-    private final String name        = "Santhosh Reddy Varikuti";
-    private final String role        = "Full Stack Developer";
-    private final String vision      = "Building scalable, performant, and elegant software solutions";
-    private final String leetcode    = "reddy1307";
-    private final String codeforces  = "santhosh1307";
-    private final String github      = "reddy1307";
-
-    public void buildFullStackApp() {
-        designRestfulApis();
-        craftResponsiveUI();
-        optimizeDatabaseQueries();
-        writeCleanCode();
-    }
-
-    public List<String> coreStrengths() {
-        return List.of(
-            "Java & Spring Boot",
-            "React.js & JavaScript",
-            "System Design & REST APIs",
-            "Competitive Programming",
-            "Database Design & Optimization"
-        );
-    }
-
-    public List<String> problemsICareAbout() {
-        return List.of(
-            "Building high-performance full-stack systems",
-            "Solving algorithmic challenges",
-            "Clean, maintainable code architecture",
-            "Scalable cloud-native applications"
-        );
-    }
-
-    private void designRestfulApis()      {}
-    private void craftResponsiveUI()      {}
-    private void optimizeDatabaseQueries() {}
-    private void writeCleanCode()          {}
-}
-```
 </details>
 <br>
 
@@ -137,7 +45,7 @@ public final class DeveloperProfile {
   <tr>
     <td align="center" width="50%">
       <a href="https://leetcode.com/u/reddy1307/">
-        <img src="https://leetcard.jacoblin.cool/reddy1307?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="100%" alt="LeetCode Stats"/>
+        <img src="https://leetcard.jacoblin.cool/santhosh13072006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="100%" alt="LeetCode Stats"/>
       </a>
     </td>
     <td align="center" width="50%">
@@ -148,7 +56,7 @@ public final class DeveloperProfile {
   </tr>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/u/reddy1307/">
+      <a href="https://leetcode.com/u/santhosh13072006/">
         <img src="https://img.shields.io/badge/🔗_View_LeetCode_Profile-4ECDC4?style=for-the-badge&labelColor=0D1117" />
       </a>
     </td>
@@ -197,7 +105,7 @@ public final class DeveloperProfile {
   <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/reddy1307/">
+<a href="https://leetcode.com/u/santhosh13072006/">
   <img src="https://img.shields.io/badge/LeetCode-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;
