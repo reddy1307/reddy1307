@@ -1,13 +1,37 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a1a2e,100:4ECDC4&height=260&section=header&text=SANTHOSH%20REDDY%20VARIKUTI&fontSize=52&fontColor=4ECDC4&animation=fadeIn&fontAlignY=42&desc=✨%20AI%20Engineer%20%7C%20Python%20•%20FastAPI%20•%20React%20Native%20•%20Firebase%20✨&descSize=18&descAlignY=63&descColor=ffffff" />
+</div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=B.Tech+%2B+M.Tech+AI+%40+SVNIT+Surat;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+Native;Firebase+%E2%80%A2+ML+%E2%80%A2+System+Design;Competitive+Programmer+%7C+Problem+Solver;" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/reddy1307/reddy1307/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake"/>
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/santhosh-reddy-varikuti/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/santhosh13072006/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Compete-4ECDC4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://codeforces.com/profile/santhosh1307)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/reddy1307)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:santhoshreddy1307@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=reddy1307&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/reddy1307)
+
+</div>
+
+---
+
 # 💫 About Me
 
 I am currently pursuing a **B.Tech + M.Tech Dual Degree in Artificial Intelligence** at **Sardar Vallabhbhai National Institute of Technology, Surat** with a CGPA of **9.41**. I am actively learning **Deep Learning** and building a strong foundation in Machine Learning concepts with the goal of applying them to real-world problems.
 
 My core strengths are **Data Structures & Algorithms and Competitive Programming**, which have helped me develop strong problem-solving, optimization, and analytical skills. I have built a **cross-platform personal finance app (Finexa)** using React Native, FastAPI, Firebase, and ML — integrating intelligent backend workflows with a clean mobile UI. I am eager to continue **integrating ML models into full-stack systems** to build intelligent, end-to-end applications.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-reddy-varikuti/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhoshreddy1307@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/reddy1307)
 
 ---
 
@@ -78,3 +102,7 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
 ---
 
 [![](https://visitcount.itsvg.in/api?id=reddy1307&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1a2e,100:4ECDC4&height=140&section=footer&text=Thanks%20for%20Visiting!%20✨&fontSize=28&fontColor=4ECDC4&animation=fadeIn&fontAlignY=48&desc=Star%20⭐%20my%20repos%20if%20you%20find%20them%20useful!&descSize=15&descColor=ffffff&descAlignY=72" />
+</div>
