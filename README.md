@@ -10,7 +10,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/reddy1307/reddy1307/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake"/>
 
 </div>
 
@@ -19,7 +18,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/santhosh-reddy-varikuti/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/reddy1307/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/santhosh13072006/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Compete-4ECDC4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://codeforces.com/profile/santhosh1307)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/reddy1307)
 [![Profile Views](https://komarev.com/ghpvc/?username=reddy1307&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/reddy1307)
