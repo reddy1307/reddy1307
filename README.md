@@ -85,23 +85,63 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
 
 ---
 
-# 🏆 Competitive Programming Stats:
+<h2 align="center">⚔️ Competitive Programming Stats</h2>
 
-![](https://leetcard.jacoblin.cool/santhosh13072006?theme=dark&font=Karma&ext=heatmap)
+<div align="center">
 
-![](https://codeforces-readme-stats.vercel.app/api/card?username=santhosh1307&theme=dark&disable_animations=false&show_icons=true&force_username=true&hide_border=false)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/u/santhosh13072006/">
+        <img src="https://leetcard.jacoblin.cool/santhosh13072006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="100%" alt="LeetCode Stats"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/santhosh1307">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=santhosh1307&theme=dark&disable_animations=false&show_icons=true&force_username=true" width="100%" alt="Codeforces Stats"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/santhosh13072006/">
+        <img src="https://img.shields.io/badge/🔗_View_LeetCode_Profile-4ECDC4?style=for-the-badge&labelColor=0D1117" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/santhosh1307">
+        <img src="https://img.shields.io/badge/🔗_View_Codeforces_Profile-4ECDC4?style=for-the-badge&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=reddy1307&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=reddy1307&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reddy1307&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddy1307&show_icons=true&theme=transparent&title_color=4ECDC4&icon_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy1307&layout=compact&theme=transparent&title_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8"/>
 
-### 📈 Contribution Graph:
+  <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=reddy1307&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&area_color=0a1a2e&hide_border=true&custom_title=Santhosh's%20Contribution%20Activity%20Graph)
+  <img width="81%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy1307&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=00FFD1&currStreakLabel=00FFD1&sideLabels=ffffff&dates=8b949e&sideNums=00FFD1" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reddy1307&label=PROFILE+VIEWS&color=4ECDC4&style=flat-square" alt="Views" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=reddy1307&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=ffffff&area=true&area_color=0a1a2e&hide_border=true&custom_title=Santhosh's%20Contribution%20Activity%20Graph" />
+</div>
 
 ---
 
