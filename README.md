@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=B.Tech+%2B+M.Tech+AI+%40+SVNIT+Surat;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+Native;Firebase+%E2%80%A2+ML+%E2%80%A2+System+Design;Competitive+Programmer+%7C+Problem+Solver;" alt="Typing SVG" />
 </a>
 
-<br/>
-
-
 </div>
 
 <div align="center">
@@ -92,7 +89,7 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
   <tr>
     <td align="center" width="50%">
       <a href="https://leetcode.com/u/santhosh13072006/">
-        <img src="https://leetcard.jacoblin.cool/santhosh13072006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="100%" alt="LeetCode Stats"/>
+        <img src="https://leetcard.jacoblin.cool/santhosh13072006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20&site=cn" width="100%" alt="LeetCode Stats"/>
       </a>
     </td>
     <td align="center" width="50%">
@@ -122,7 +119,8 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddy1307&show_icons=true&theme=transparent&title_color=4ECDC4&icon_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy1307&layout=compact&theme=transparent&title_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8"/>
 
   <br/>
 
