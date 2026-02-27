@@ -1,9 +1,33 @@
-</details>
-<br>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a1a2e,100:4ECDC4&height=260&section=header&text=SANTHOSH%20REDDY%20VARIKUTI&fontSize=52&fontColor=4ECDC4&animation=fadeIn&fontAlignY=42&desc=✨%20AI%20Engineer%20%7C%20Python%20•%20FastAPI%20•%20React%20Native%20•%20Firebase%20✨&descSize=18&descAlignY=63&descColor=ffffff" />
+</div>
 
-🚀 *"Code that scales. Logic that wins. Systems that endure."*
+<div align="center">
 
-<br clear="right"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=B.Tech+%2B+M.Tech+AI+%40+SVNIT+Surat;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+Native;Firebase+%E2%80%A2+ML+%E2%80%A2+System+Design;Competitive+Programmer+%7C+Problem+Solver;" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/reddy1307/reddy1307/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/santhosh-reddy-varikuti/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/santhosh13072006/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Compete-4ECDC4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)](https://codeforces.com/profile/santhosh1307)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/reddy1307)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:santhoshreddy1307@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=reddy1307&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/reddy1307)
+
+</div>
+
+<br/>
 
 ---
 
@@ -11,27 +35,66 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/BACKEND-4ECDC4?style=for-the-badge&logo=spring&logoColor=white&labelColor=1A1B27" />
-  <p><i>⚙️ Architecture & Logic</i></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven&theme=dark" />
+  <img src="https://img.shields.io/badge/LANGUAGES-4ECDC4?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1A1B27" />
+  <p><i>💻 Core Programming</i></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql&theme=dark" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/FRONTEND-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
-  <p><i>🌐 UI & Web Development</i></p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/BACKEND-4ECDC4?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1A1B27" />
+  <p><i>⚙️ APIs & Frameworks</i></p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs&theme=dark" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/DATABASE-4ECDC4?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1B27" />
-  <p><i>🗄️ Persistence & Storage</i></p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,hibernate,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/FRONTEND%20%26%20MOBILE-4ECDC4?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
+  <p><i>🌐 UI & App Development</i></p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/DATABASE%20%26%20CLOUD-4ECDC4?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1A1B27" />
+  <p><i>🗄️ Persistence & Cloud</i></p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql&theme=dark" />
 
   <br/><br/>
 
   <img src="https://img.shields.io/badge/TOOLS-4ECDC4?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27" />
   <p><i>🛠️ Workflow & IDEs</i></p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>💰 Finexa — Personal Finance App</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-4ECDC4?style=flat-square&logo=react&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Expo-4ECDC4?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/TypeScript-4ECDC4?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/FastAPI-4ECDC4?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Firebase-4ECDC4?style=flat-square&logo=firebase&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/Python-4ECDC4?style=flat-square&logo=python&logoColor=white&labelColor=0D1117"/>
+        <img src="https://img.shields.io/badge/ML-4ECDC4?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117"/>
+      </p>
+      <p align="left">
+        &nbsp;&nbsp;🔹 Cross-platform mobile finance app with real-time transaction tracking & rich analytics<br/>
+        &nbsp;&nbsp;🔹 UTR-based deduplication system preventing duplicate records across multiple bank sources<br/>
+        &nbsp;&nbsp;🔹 Bank statement PDF ingestion (SBI, PhonePe) via FastAPI + <code>pdfplumber</code> + regex pipelines<br/>
+        &nbsp;&nbsp;🔹 Real-time dashboards — pie charts, spending heatmaps, weekly/monthly summaries<br/>
+        &nbsp;&nbsp;🔹 Firebase Auth (email/password, verification, reset) + Firestore with indexed queries<br/>
+        &nbsp;&nbsp;🔹 Modular architecture separating mobile UI, backend services, and ML components
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -44,7 +107,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://leetcode.com/u/reddy1307/">
+      <a href="https://leetcode.com/u/santhosh13072006/">
         <img src="https://leetcard.jacoblin.cool/santhosh13072006?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" width="100%" alt="LeetCode Stats"/>
       </a>
     </td>
@@ -115,6 +178,10 @@
 &nbsp;
 <a href="https://github.com/reddy1307">
   <img src="https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:santhoshreddy1307@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 
 </div>
