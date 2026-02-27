@@ -10,7 +10,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/reddy1307/reddy1307/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Snake"/>
 
 </div>
 
@@ -123,8 +122,7 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reddy1307&show_icons=true&theme=transparent&title_color=4ECDC4&icon_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy1307&layout=compact&theme=transparent&title_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&langs_count=8"/>
+ 
 
   <br/>
 
