@@ -88,7 +88,7 @@ My core strengths are **Data Structures & Algorithms and Competitive Programming
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://leetcode.com/u/santhosh13072006/">
+      <a href="https://leetcode.com/u/santhosh_1307/">
         <img src="https://leetcode-stats-six.vercel.app/?username=santhosh13072006&theme=dark" width="100%" alt="LeetCode Stats"/>
       </a>
     </td>
